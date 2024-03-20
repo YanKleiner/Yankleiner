@@ -1,6 +1,6 @@
 ### Hi, im Yan Kleiner 👋
-⚡ I`ve been coding in Java for 3 years already
-🔭 Im a Computer Science Student at ETH Zurich (somehow your referal can prevent me from living on the streets😭)
+* ⚡ I`ve been coding in Java for 3 years already
+* 🔭 Im a Computer Science Student at ETH Zurich (somehow your referal can prevent me from living on the streets😭)
 
 
 <!--
